@@ -1,0 +1,579 @@
+[
+
+  {
+    "titleCard": "Cómo Crear Tu Primer Tool en Roblox Fácil y Rápido",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "En 15 minutos, aprende lo esencial para crear tu herramienta de juego desde cero: scripting, modelado y propiedades.",
+    "durationCard": "15:01",
+    "imageCard": "https://i.ytimg.com/vi/q25cBvwgKIY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLASQKBaXVJDdxCQ_0vtipbM5VomMg",
+    "gifCard": "https://i.ytimg.com/an_webp/q25cBvwgKIY/mqdefault_6s.webp?du=3000&sqp=CKDDy8MG&rs=AOn4CLAgAa9S4oe4Q5-rURgxZvqpKEdvmg",
+    "linkCard": "https://www.youtube.com/watch?v=q25cBvwgKIY",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/174577307/Tool-Grip-Editor?pagePosition=6"],
+    "id": "84-RGD-NX"
+  },
+  {
+    "titleCard": "Como Personalizar la Pantalla de Muerte En Roblox Studio",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Obtén GRATIS un Kit de Pantalla de Muerte para tu juego en minutos!",
+    "durationCard": "12:54",
+    "imageCard": "https://i.ytimg.com/vi/suyW-xzgGqw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAJMgWrTpXc-hQL2MFXOhLg0w1prQ",
+    "gifCard": "https://i.ytimg.com/an_webp/suyW-xzgGqw/mqdefault_6s.webp?du=3000&sqp=CLTCy8MG&rs=AOn4CLADF9VzSqBjxpdrXuLT0U8q_3fX-Q",
+    "linkCard": "https://www.youtube.com/watch?v=suyW-xzgGqw&t=59s",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/113577413832531/Death-Screen-TZ"],
+    "id": "29-KZL-NX"
+  },
+  {
+    "titleCard": "EL MEJOR sistema de ESCONDITE en ROBLOX",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Aprende a crear tu escondite en minutos para tu juego de Roblox. Demasiado fácil. Más fácil que la hermana de Mati.",
+    "durationCard": "12:22",
+    "imageCard": "https://i.ytimg.com/vi/dWB7OOoCUNQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbUzAvx7x2r9YRWCxrt8Q2auDTBw",
+    "gifCard": "https://i.ytimg.com/an_webp/dWB7OOoCUNQ/mqdefault_6s.webp?du=3000&sqp=CLCly8MG&rs=AOn4CLCAbAwhRgDtJ76yKz1mybl4ms3plwA",
+    "linkCard": "https://www.youtube.com/watch?v=dWB7OOoCUNQ",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/103479227826399/Sistma-Esconderse", "https://create.roblox.com/store/asset/134422964072024/KIT-MONSTER-TOXIA-REXY-AI"],
+    "id": "71-BTV-NX"
+  },
+  {
+    "titleCard": "Aprende A Escribir Variables: Roblox Studio | Guía de Programación #1",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "¿Quieres aprender a programar en Roblox Studio desde cero? En este primer capítulo te enseño todo lo que necesitas saber sobre variables en Lua, uno de los conceptos fundamentales para empezar a crear tus propios juegos en Roblox. Este curso es ideal para principiantes, sin experiencia previa, que quieren empezar en el mundo de la programación y desarrollo de videojuegos.",
+    "durationCard": "13:19",
+    "imageCard": "https://i.ytimg.com/vi/Q9yYGQ8J7fU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBV3y0CbBT_pmzKave9f6wKjgw2Bg",
+    "gifCard": "https://i.ytimg.com/an_webp/Q9yYGQ8J7fU/mqdefault_6s.webp?du=3000&sqp=CLiXy8MG&rs=AOn4CLDArXt6uocaqcuDBWew15LetxI85w",
+    "linkCard": "https://www.youtube.com/watch?v=Q9yYGQ8J7fU",
+    "externalLinksCard": [""],
+    "id": "38-MQL-NX"
+  },
+  {
+    "titleCard": "Cómo Implementar un Sistema de Hambre y Sed en Roblox",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Este video te proporcionará un sistema de hambre y sed personalizable y ajustable. ¡OBTÉNLO AHORA!",
+    "durationCard": "8:08",
+    "imageCard": "https://i.ytimg.com/vi/OZMC7YgkPS8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCP0cswkuyMMJZ_td6q2UsjL5228g",
+    "gifCard": "https://i.ytimg.com/an_webp/OZMC7YgkPS8/mqdefault_6s.webp?du=3000&sqp=CJLKy8MG&rs=AOn4CLAKDsxGqqxisyjaeccb_azsbZnhEA",
+    "linkCard": "https://www.youtube.com/watch?v=OZMC7YgkPS8",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/77610429992738/SISTEMA-HAMBRE-SED"],
+    "id": "50-ZWN-NX"
+  },
+  {
+    "titleCard": "Cómo Crear un Sistema de Sprint y Crouch en Roblox Studio",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Aprende a crear Sprint y Crouch en Roblox Studio  Empieza ahora",
+    "durationCard": "10:06",
+    "imageCard": "https://i.ytimg.com/vi/1qAFzwXJV_I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB-X6De_5JwDtc2f3m2-5QyXjVrmA",
+    "gifCard": "https://i.ytimg.com/an_webp/1qAFzwXJV_I/mqdefault_6s.webp?du=3000&sqp=CJbRy8MG&rs=AOn4CLC3dNeWSjBYx8eexJhU9oNnGBaREw",
+    "linkCard": "https://www.youtube.com/watch?v=1qAFzwXJV_I",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/136165428703784/Tomiasz-Sprint-Crouch-V1"],
+    "id": "12-RHK-NX"
+  },
+  {
+    "titleCard": "El MEJOR Sistema de VIDA de ROBLOX",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Barra De Vida, Sangre, Animaciones, Efectos, TODO. Mejora TU JUEGO con este SISTEMA en tus juegos de Roblox: Empieza AHORA.",
+    "durationCard": "12:42",
+    "imageCard": "https://i.ytimg.com/vi/K59AqUZnGWg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDEfO8h_AiZraqoMCuXLSoAycN6sA",
+    "gifCard": "https://i.ytimg.com/an_webp/K59AqUZnGWg/mqdefault_6s.webp?du=3000&sqp=CICOy8MG&rs=AOn4CLCQ9-WrHFJMfzuOfdV_wZ7-IWi0YQ",
+    "linkCard": "https://www.youtube.com/watch?v=K59AqUZnGWg",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/131267776549184/Sistema-Curacion-Y-Vida-V102"],
+    "id": "66-VJE-NX"
+  },
+  {
+    "titleCard": "GUÍA: Cómo Hacer un Juego de Terror en Roblox",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Desarrolla tu terror en Roblox: prueba, optimiza y asusta. Empieza AHORA.",
+    "durationCard": "15:02",
+    "imageCard": "https://i.ytimg.com/vi/BCWx0yu0C5g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCWUJfImZuNuJppNed-GUKgKWZtaQ",
+    "gifCard": "https://i.ytimg.com/an_webp/BCWx0yu0C5g/mqdefault_6s.webp?du=3000&sqp=CMC-y8MG&rs=AOn4CLDaCpb5SILWQ9_iKmP2bAD6rOEYbA",
+    "linkCard": "https://www.youtube.com/watch?v=BCWx0yu0C5g",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/96750436791461/Kit-Ambientacion"],
+    "id": "73-HLY-NX"
+  },  
+
+  {
+    "titleCard": "Cómo Diseñar y Crear Un Monstruo en Roblox",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Aprende a crear tu monstruo avanzado en Roblox, ideal para juegos de terror. Comienza ya.",
+    "durationCard": "15:36",
+    "imageCard": "https://i.ytimg.com/vi/rm3V6XdchD8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAUnq8lZ93F0wsIBnSSduX9kWNl8A",
+    "gifCard": "https://i.ytimg.com/an_webp/rm3V6XdchD8/mqdefault_6s.webp?du=3000&sqp=CNKxy8MG&rs=AOn4CLAEttJ0IGs4ugA3s1jocLCu-T2Q5w",
+    "linkCard": "https://www.youtube.com/watch?v=rm3V6XdchD8",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/134422964072024/KIT-MONSTER-TOXIA-REXY-AI", "https://create.roblox.com/store/asset/608057817/Insert-Asset?keyword=asset+inserter&pageNumber=1&pagePosition=2"],
+    "id": "92-WUD-NX"
+  },
+
+  {
+    "titleCard": "Como Hacer Un MENU PRINCIPAL En ROBLOX STUDIO | #32",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Este video tutorial te enseñara a hacer un menu principal para presetnar tu juego de la mejor manera posible, con un cambio de escenas, camaras, musica, y muchisimas cosas personalizables bien explicadas, todo gratis",
+    "durationCard": "21:49",
+    "imageCard": "https://i.ytimg.com/vi/le6dATrqudg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDn90kX_kCpVBO2kEH98wurLrYYPw",
+    "gifCard": "https://i.ytimg.com/an_webp/36VWnfFCKsY/mqdefault_6s.webp?du=3000&sqp=CN6ty8MG&rs=AOn4CLAidg0WEBXcoeTl3FKioraCpduP5w",
+    "linkCard": "https://www.youtube.com/watch?v=le6dATrqudg",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/84828163072141/Sistema-Menu-Tomiasz", 
+      "https://pastebin.com/AgzCZv4S"],
+    "id": "22-PBR-NX"
+  },
+
+  {
+    "titleCard": "PANTALLA DE CARGA En ROBLOX STUDIO | #31",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "HOLAAAA, MUCHACHADA ESTE TUTORIAL te dará un modelo completamente gratis con un sistema de carga de pantalla completamente personalizable y ajustable, todos explicado en el video con link directos y gratis.",
+    "durationCard": "12:18",
+    "imageCard": "https://i.ytimg.com/vi/tMky9rK5-N8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNNEuxVEeGxsI_DOT9H9mcJ5RonA",
+    "gifCard": "https://i.ytimg.com/an_webp/tMky9rK5-N8/mqdefault_6s.webp?du=3000&sqp=CJTCy8MG&rs=AOn4CLAvaG212C5nvuoOX6ThB3uEn5_-Bg",
+    "linkCard": "https://www.youtube.com/watch?v=tMky9rK5-N8",
+    "externalLinksCard": [""],
+    "id": "30-PGD-NX"
+  },
+
+  {
+    "titleCard": "Cómo Hacer una TIENDA NPC en Roblox Studio",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Tienda NPC con Autoguardado Incluido de Ítems y Dinero y un sistema de mensajes del mismo NPC!| Totalmente Gratis, Fácil de Entender, Personalizable e Ilimitado, Todo a Tu Alcance",
+    "durationCard": "16:45",
+    "imageCard": "https://i.ytimg.com/vi/36VWnfFCKsY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCx9rySrIxEyzZY2POltztwzHREeg",
+    "gifCard": "https://i.ytimg.com/an_webp/36VWnfFCKsY/mqdefault_6s.webp?du=3000&sqp=CN6ty8MG&rs=AOn4CLAidg0WEBXcoeTl3FKioraCpduP5w",
+    "linkCard": "https://www.youtube.com/watch?v=36VWnfFCKsY",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/81826645082828/Tienda-Npc-Tomiasz"],
+    "id": "6'-PIV-NX"
+  },
+  
+  {
+    "titleCard": "Guía DEFINITIVA de Construcción en Roblox para Todos",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "En este video encontramas un resumen de 5 años en minutos, acompañando y enseñando te todo el conocimiento que conseguí en los dotes de construcción de Roblox Studio, dándote consejos, tutoriales y tips.",
+    "durationCard": "40:45",
+    "imageCard": "https://i.ytimg.com/vi/7NIcs-DXsiY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBd0MIW-TKezDIchN7yp23Cs_ssRg",
+    "gifCard": "https://i.ytimg.com/an_webp/7NIcs-DXsiY/mqdefault_6s.webp?du=3000&sqp=CLrIy8MG&rs=AOn4CLBgTuyN1Gu2ppZv0b11LvcPqot46g",
+    "linkCard": "https://www.youtube.com/watch?v=7NIcs-DXsiY",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/144950355/Building-Tools-by-F3X-Plugin",  
+      "https://create.roblox.com/store/asset/2268520847/Brushtool-21", 
+      "https://create.roblox.com/store/asset/18767476560/StudsPack",
+      "https://create.roblox.com/store/asset/18772019648/LowPolyPack"],
+    "id": "54-FJV-NX"
+  },
+
+  {
+    "titleCard": "Cómo Teletransportarse a Otro Juego en Roblox Studio",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "En este video tutorial, aprenderás a crear un sistema de teletransportación en Roblox Studio con tres métodos diferentes: por área de toque, Proximity Prompt y Click Detector. Te guiaré paso a paso para configurar cada método, desde la publicación del juego hasta la personalización de los scripts. Además, te mostraré cómo asegurar que todo funcione correctamente en el juego en vivo.",
+    "durationCard": "6:15",
+    "imageCard": "https://i.ytimg.com/vi/yNpZsthJOTw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDIiuGNr-6eToMnCuGbO3fUWCCMLw",
+    "gifCard": "https://i.ytimg.com/an_webp/yNpZsthJOTw/mqdefault_6s.webp?du=3000&sqp=COy7y8MG&rs=AOn4CLCI9KBLEBezf8yHrvr1DmDkNeY-Kg",
+    "linkCard": "https://www.youtube.com/watch?v=yNpZsthJOTw",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/18650066703/Modelos-De-Telenstraporte"],
+    "id": "63-PVG-NX"
+  },
+
+  {
+    "titleCard": "Cómo Hacer una Tienda en Roblox Studio | #27",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "En este video tutorial, aprenderás cómo añadir un sistema de tienda completo y personalizable a tu juego de Roblox Studio. Te guiaré paso a paso en todo el proceso, desde la configuración inicial hasta la personalización y animación de la tienda.",
+    "durationCard": "10:52",
+    "imageCard": "https://i.imgur.com/3ET0m2p.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/n81GTK2g5nQ/mqdefault_6s.webp?du=3000&sqp=CNi_y8MG&rs=AOn4CLC0_aCtW3PIo0BTu_Qnt2y7CxN61A",
+    "linkCard": "https://m.youtube.com/watch?v=n81GTK2g5nQ&t=28s",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/18532057511"
+    ],
+    "id": "47-QPW-NX"
+  },
+  {
+    "titleCard": "LEADERSTATS con AUTOGUARDADO En ROBLOX STUDIO | #26",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Este video te enseñara en 7 minutos a como crear una tabla de puntajes, o leaderstats de roblox studio, con autoguardado y cargado",
+    "durationCard": "8:32",
+    "imageCard": "https://i.imgur.com/DXVcxCR.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/o5YBw13KLyQ/mqdefault_6s.webp?du=3000&sqp=CKCcy8MG&rs=AOn4CLBmpBN52YgDm7Kl3KV2gsWWBeGVZg",
+    "linkCard": "https://m.youtube.com/watch?v=o5YBw13KLyQ",
+    "externalLinksCard": [
+      "https://pastebin.com/0WH4fc20",
+      "https://pastebin.com/5dfAE2DE"
+    ],
+    "id": "83-TMD-NX"
+  },
+  {
+    "titleCard": "Como abrir un SCREEN GUI Al Tocar Un BLOQUE | #25",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "¡En 8 minutos sabrás darle más vida a tu juego! ⭐ Con una interacción al abrir un GUI, dándole más profesionalidad a tu juego. Incluye una forma simple y fácil, y otra avanzada y animada.",
+    "durationCard": "9:00",
+    "imageCard": "https://i.imgur.com/QJhHK4T.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/DvMNcwPGh7M/mqdefault_6s.webp?du=3000&sqp=CMCby8MG&rs=AOn4CLC073H_isSNyq4Ar6ubVSznTp-I5w",
+    "linkCard": "https://m.youtube.com/watch?v=DvMNcwPGh7M&t=27s",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/17835159166/Screen-GUI-Part"
+    ],
+    "id": "29-LKR-NX"
+  },
+  {
+    "titleCard": "Luces intermitentes (o de terror) en Roblox STUDIO | #24",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Fácil y explicado en 5 minutos, cómo hacer luces intermitentes, parpadeantes o lo que sea, con un tiempo aleatorio y configurable a tu gusto, y con un regalo al final del video.",
+    "durationCard": "6:40",
+    "imageCard": "https://i.imgur.com/XqClNut.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/xoS_uw5JDFk/mqdefault_6s.webp?du=3000&sqp=CISxy8MG&rs=AOn4CLD9vasW6pEIUCW54a1kwGm0_08X6w",
+    "linkCard": "https://www.youtube.com/watch?v=xoS_uw5JDFk",
+    "externalLinksCard": [
+      "https://pastebin.com/EhA3nmCt"
+    ],
+    "id": "56-HJG-NX"
+  },
+  {
+    "titleCard": "Animaciones personalizadas en roblox studio | #23",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Fácil y explicado, en 6 minutos sabrás cómo hacer animaciones personalizadas más bonitas y animadas ✨",
+    "durationCard": "5:11",
+    "imageCard": "https://i.imgur.com/xtjSOKU.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/INmaC6eVZsY/mqdefault_6s.webp?du=3000&sqp=CLCsy8MG&rs=AOn4CLB5lJ7sUlhLlGft2cDFbgBo75TmDw",
+    "linkCard": "https://m.youtube.com/watch?v=INmaC6eVZsY&t=58s",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/17320085851/Animaciones-MOVIMIENTO-tomias"
+    ],
+    "id": "64-ZTR-NX"
+  },
+  {
+    "titleCard": "Los mejores plugins de roblox studio | #22",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Holaa, este video te enseñara los mejores plugins, para empezar en roblox de estudio, todos completamente gratis!",
+    "durationCard": "7:21",
+    "imageCard": "https://i.imgur.com/VQ57VTL.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/FghWKdVJ6zs/mqdefault_6s.webp?du=3000&sqp=CK7Fy8MG&rs=AOn4CLBEQGWg40WKM8IcmwYJPTKnrJvn4A",
+    "linkCard": "https://m.youtube.com/watch?v=FghWKdVJ6zsY/",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/144950355/Building-Tools-by-F3X-Plugin?pageNumber=2&pagePosition=1",
+      "https://create.roblox.com/store/asset/144938633/Archimedes-v319?pageNumber=1&pagePosition=9",
+      "https://create.roblox.com/store/asset/2268520847/Brushtool-21?keyword=brushtool&pageNumber=1&pagePosition=0",
+      "https://create.roblox.com/store/asset/261634767/Part-to-Terrain?keyword=part+to+terrain&pageNumber=1&pagePosition=1",
+      "https://create.roblox.com/store/asset/608057817/Insert-Asset?keyword=insert&pageNumber=1&pagePosition=2",
+      "https://create.roblox.com/store/asset/752585459/Load-Character-Lite?keyword=load&pageNumber=1&pagePosition=1",
+      "https://create.roblox.com/store/asset/400812710/Realism-Mod?keyword=REALISM&pageNumber=1&pagePosition=0",
+      "https://create.roblox.com/store/asset/6274600541/Camera-Light?keyword=CAMERA+LIGHT&pageNumber=1&pagePosition=0",
+      "https://create.roblox.com/store/asset/213664111/Celestial-Body-Dragger?keyword=celestial&pageNumber=1&pagePosition=0",
+      "https://create.roblox.com/store/asset/723917710/Intro-Creator?keyword=intro+creator&pageNumber=1&pagePosition=2",
+      "https://create.roblox.com/store/asset/165687726/Stravant-GapFill-Extrude?keyword=gapfill&pageNumber=1&pagePosition=0",
+      "https://create.roblox.com/store/asset/217792838/Stravant-Model-Reflect?pagePosition=1",
+      "https://create.roblox.com/store/asset/1191990117/Waterfall-Generator?keyword=waterfall+generator&pageNumber=1&pagePosition=0"
+    ],
+    "id": "21-KWX-NX"
+  },
+  {
+    "titleCard": "Como animar caras en moon animator | #21",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "En este video te enseñaré en menos de 4 minutos a animar Expresiones o caras en moon animator 2, encima dandote un kit gratis de expresiones faciales!",
+    "durationCard": "3:49",
+    "imageCard": "https://i.imgur.com/gvgbjKX.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/QaN3Q_6rGjY/mqdefault_6s.webp?du=3000&sqp=CKzSy8MG&rs=AOn4CLA5X2BIx09QzJezJznY3SrYcQCk9g",
+    "linkCard": "https://m.youtube.com/watch?v=QaN3Q_6rGjY&t=129s/",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/16645361043/"
+    ],
+    "id": "90-BMV-NX"
+  },
+  {
+    "titleCard": "Como hacer un juego de TERROR en roblox studio | #20",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "En este video te explicare y te dare consejos y tips de como tener mejor iluminación, más detalles, oscuridad y 2 modelos para construir tu mapa de horror, todo completamente gratis sin gastar ningun robux, tu unico limite, tu imaginación",
+    "durationCard": "15:30",
+    "imageCard": "https://i.imgur.com/JOVl0Kl.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/kmMtLS8gtAg/mqdefault_6s.webp?du=3000&sqp=CIC4y8MG&rs=AOn4CLCV3kKiFTpIQJJrp8DncvQvnEUXDw",
+    "linkCard": "https://m.youtube.com/watch?v=kmMtLS8gtAg/",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/16544624475/Pack-Horror-Tomiasz?externalSource=www",
+      "https://create.roblox.com/store/asset/15539354174/REALISM-PACK?externalSource=www",
+      "https://create.roblox.com/store/asset/752585459/Load-Character-Lite?pageNumber=1&pagePosition=20",
+      "https://create.roblox.com/store/asset/144950355/Building-Tools-by-F3X-Plugin?pageNumber=2&pagePosition=0",
+      "https://create.roblox.com/store/asset/6274600541/Camera-Light?keyword=camera+light&pageNumber=1&pagePosition=0"
+    ],
+    "id": "68-ZNB-NX"
+  },
+  {
+    "titleCard": "Como hacer un boton de mute en roblox studio | #19",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Hola! En Este Video Te Explicare Como Hacer un boton al cual cuando lo presionas, desactiva la musica de fondo de tu juego.",
+    "durationCard": "7:35",
+    "imageCard": "https://i.imgur.com/RSQZe10.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/ZMkSxo_jD2w/mqdefault_6s.webp?du=3000&sqp=CLCyy8MG&rs=AOn4CLCIs1u7Ue7x1tbnbGtFg1Kt0sMZgw",
+    "linkCard": "https://m.youtube.com/watch?v=ZMkSxo_jD2w",
+    "externalLinksCard": [
+      "https://pastebin.com/dwNcjdXp"
+    ],
+    "id": "32-VTC-NX"
+  },
+  {
+    "titleCard": "Como animar VFX y efectos en moon animator | #18",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Holaas! En Este Video Te Explicare Facil, Como Animar VFX Y EFECTOS, En El Plguin MOON ANIMATOR 2, Tanto como el color, tamaño, cantidad, ETC.",
+    "durationCard": "8:26",
+    "imageCard": "https://i.imgur.com/uMhhLeC.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/jYVM9ObXUkc/mqdefault_6s.webp?du=3000&sqp=CNfQy8MG&rs=AOn4CLCEQsBNSRV3g400piVgm-z-vJ0JmA",
+    "linkCard": "https://m.youtube.com/watch?v=jYVM9ObXUkc",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/16068845530/GFX-EFECTOS%3Fkeyword=&pageNumber=&pagePosition="
+    ],
+    "id": "75-RQK-NX"
+  },
+  {
+    "titleCard": "Como tener moon animator 2 Gratis | #17",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Hola, Muchos Me Lo Pidieron! asi que aqui tienen el Moon Animator 2, Completamente GRATIS.",
+    "durationCard": "3:46",
+    "imageCard": "https://i.imgur.com/aUJIsXJ.png",
+    "gifCard": "https://i.ytimg.com/an_webp/sigDt732fLM/mqdefault_6s.webp?du=3000&sqp=CPrLy8MG&rs=AOn4CLBVEDeYxkZKJ6OUp_iRGeLVdT3x9g",
+    "linkCard": "https://m.youtube.com/watch?v=sigDt732fLM",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/11966346430/Moon-Animator-2-free"
+    ],
+    "id": "54-LMN-NX"
+  },
+  {
+    "titleCard": "Como hacer tu primera animación en roblox | #16",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Buenas, en este video te enseñare las basicas de como hacer una animacion en roblox studio, tanto como añadir un objeto, hacer animaciones mas fluidas y o suaves, Añadir Una Cámara, y más con moon animator 2.",
+    "durationCard": "10:41",
+    "imageCard": "https://i.imgur.com/ruYnItG.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/ScAJTWIjhYI/mqdefault_6s.webp?du=3000&sqp=CJbUy8MG&rs=AOn4CLAvl7fG9f0k4MKk4xOTny4EIA-Zbg",
+    "linkCard": "https://m.youtube.com/watch?v=ScAJTWIjhYI",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/4725618216/Moon-Animator-2"
+    ],
+    "id": "26-GHT-NX"
+  },
+  {
+    "titleCard": "Como ADAPTAR Tus GUIS En Roblox Studio | #15",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "BUEENAS!En este vide video te voy a enseñar a cómo ADAPTAR, o ajustar tus guis en roblox studio, para que estos quepan, Caban, o de vean bien en cualquier dispositivo Sin Plugins, scripts, o modelo.",
+    "durationCard": "3:19",
+    "imageCard": "https://i.imgur.com/0i9Acou.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/Keb8sdNq1tU/mqdefault_6s.webp?du=3000&sqp=CJbTy8MG&rs=AOn4CLBfV22w5RielWrrtQV2wtAsKBJb3A",
+    "linkCard": "https://m.youtube.com/watch?v=Keb8sdNq1tU",
+    "externalLinksCard": [
+      "https://m.youtube.com/watch?v=Keb8sdNq1tU"
+    ],
+    "id": "71-DYE-NX"
+  },
+  {
+    "titleCard": "Como Tener Un CHAT PERSONALIZADO En Roblox Studio | #14",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "En este video te explicare muy bien y facil, como tener un chat personalizado en roblox studio, podrias personalizarlo completamente a tu gusto, cambiando los colores, tamaños, espacio, desactivandolo y activandolo. Y Tambien la burbuja de chat y unas fuentes personalizadas.",
+    "durationCard": "6:40",
+    "imageCard": "https://i.imgur.com/DsNVGgZ.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/3bbwThP_gVc/mqdefault_6s.webp?du=3000&sqp=CNGhy8MG&rs=AOn4CLCUdRa-ER6lCmPuMeR5Hz1q7_n9ag",
+    "linkCard": "https://m.youtube.com/watch?v=3bbwThP_gVc",
+    "externalLinksCard": [
+      "https://m.youtube.com/watch?v=3bbwThP_gVc"
+    ],
+    "id": "89-FPL-NX"
+  },
+  {
+    "titleCard": "Como Crear ITEMS ANIMABLES en Roblox Studio | #13",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Hola! este video te enseñara todo lo necesario para crear unos tools animables, cuales al equiparlos, producen una animacion, y tambien cuando son desequipados. Con un sonido de equipar y desequipar, tambien incluidos.",
+    "durationCard": "7:04",
+    "imageCard": "https://i.imgur.com/eRicjAq.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/p9kgdjzU5kg/mqdefault_6s.webp?du=3000&sqp=CJiyy8MG&rs=AOn4CLCYMX-9wtWskUvu2AMio41yyTxpVw",
+    "linkCard": "https://m.youtube.com/watch?v=p9kgdjzU5kg&t=12s",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/15651438596/Items-ANIMABLES"
+    ],
+    "id": "38-MQX-NX"
+  },
+  {
+    "titleCard": "GRAFICOS REALISTAS en ROBLOX STUDIO | #12",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Hola, Este video les explicara como tener unos graficos realistas y de buena calidad en roblox studio para sus juegos, con un paquete de modelos, texturas.",
+    "durationCard": "10:00",
+    "imageCard": "https://i.imgur.com/dkpXXuw.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/xsnPEgCGVBw/mqdefault_6s.webp?du=3000&sqp=CLicy8MG&rs=AOn4CLDMQ-ZxX7CAY2tiIEmW8W2Wkc7OpQ",
+    "linkCard": "https://m.youtube.com/watch?v=xsnPEgCGVBws",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/15539354174?viewFromStudio=true&keyword&searchId=FB81C215-C701-4A02-8B03-EB37A74E4D31",
+      "https://create.roblox.com/store/asset/4725618216/Moon-Animator-2?keyword&pageNumber=1&pagePosition",
+      "https://create.roblox.com/store/asset/2268520847/Brushtool-21?externalSource=www",
+      "https://create.roblox.com/store/asset/213664111/Celestial-Body-Dragger?keyword=celestial+body+dragger&pageNumber=1&pagePosition"
+    ],
+    "id": "52-XLR-NX"
+  },
+  {
+    "titleCard": "Como CREAR Un Screen Gui Con MOVIMIENTO | Roblox Studio | #11",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Este video se enfoca en como hacer un screen gui, y animarlo para tener como resultado una animación de un screen GUI, todo en menos de 5 minutos.",
+    "durationCard": "5:01",
+    "imageCard": "https://i.imgur.com/C8pXZUi.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/8xKf0UQ6Vpc/mqdefault_6s.webp?du=3000&sqp=CPSiy8MG&rs=AOn4CLBvC9hVW6nxcmGrkZ9RzeRE42JQVg",
+    "linkCard": "https://m.youtube.com/watch?v=8xKf0UQ6Vpc",
+    "externalLinksCard": [
+      "https://pastebin.com/P9R7nK9P"
+    ],
+    "id": "66-HUG-NX"
+  },
+  {
+    "titleCard": "Como hacer un GFX | #10",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Hola!Este en este video les enseñare en menos de 10 minutos a como hacer un GFX en ROBLOX STUDIO, Facil y sencillo! Esto te servirá para hacer tus miniaturas, iconos, ETC de roblox🔥",
+    "durationCard": "6:28",
+    "imageCard": "https://i.imgur.com/voYGIf3.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/wbpMu3uFtMs/mqdefault_6s.webp?du=3000&sqp=CK3Ny8MG&rs=AOn4CLD3oHld8kZecYQ51RkC68L68XRzDA",
+    "linkCard": "https://m.youtube.com/watch?v=wbpMu3uFtMs",
+    "externalLinksCard": [
+      "https://www.blender.org/",
+      "https://create.roblox.com/store/asset/4725618216/Moon-Animator-2",
+      "https://create.roblox.com/store/asset/4725618216/Moon-Animator-2%3Fkeyword=&pageNumber=&pagePosition="
+    ],
+    "id": "98-PZQ-NX"
+  },
+  {
+    "titleCard": "COMO HACER EMBLEMAS | Roblox Studio | #9",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Holaa, en este video les explicare sencillamente y detalladamente como crear un emblema y hacerlo funcionar en roblox studio PD: Recuerden que pueden hacer hasta 5 Emblemas gratis, por mes.",
+    "durationCard": "5:28",
+    "imageCard": "https://i.imgur.com/AYt5k9k.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/pxSGkuIsSGw/mqdefault_6s.webp?du=3000&sqp=CNzEy8MG&rs=AOn4CLBaa37X5QWl-EEVfsUBaJivl3em0A",
+    "linkCard": "https://m.youtube.com/watch?v=pxSGkuIsSGw",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/14864330578?externalSource=www"
+    ],
+    "id": "14-GHJ-NX"
+  },
+  {
+    "titleCard": "Proximity Prompt PERSONALIZADO | #8",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Hola, en este video te enseñare acomo realizar un proximity prompt avanzado y personalizable. link directo, roblox studio y facil y sencillo.",
+    "durationCard": "3:15",
+    "imageCard": "https://i.imgur.com/r96Iwbx.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/iQ9nuM8BHng/mqdefault_6s.webp?du=3000&sqp=CNC9y8MG&rs=AOn4CLCPrYvkgOzlsdY8bYuohpUeaVRd3w",
+    "linkCard": "https://m.youtube.com/watch?v=iQ9nuM8BHng",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/14787760732/?externalSource=www"
+    ],
+    "id": "75-DVB-NX"
+  },
+  {
+    "titleCard": "Como Poner OSCURIDAD en una AREA | Roblox studio #7",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "En este video les enseñare como hacer que una zona tenga un ambiente diferente a las otras, luz diferente al resto, o cambie de ambiente.",
+    "durationCard": "3:46",
+    "imageCard": "https://i.imgur.com/tzLlWN8.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/hGO4o1EmKy8/mqdefault_6s.webp?du=3000&sqp=CMuoy8MG&rs=AOn4CLCCSPsdTzYDldUeIBYfN0Lj5yPBpw",
+    "linkCard": "https://m.youtube.com/watch?v=hGO4o1EmKy8",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/14332111180?externalSource=www"
+    ],
+    "id": "87-KYP-NX"
+  },
+  {
+    "titleCard": "🔦 LUZ REALISTA 🔦| Roblox Studio | #6",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Hola en este video te enseñare como realizar una fuente de luz realista facil en roblox studio, con sus configuraciones",
+    "durationCard": "3:42",
+    "imageCard": "https://i.imgur.com/Vxny7HZ.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/1c2wJJuaWEk/mqdefault_6s.webp?du=3000&sqp=CM20y8MG&rs=AOn4CLBWh6N1_hh4RKtK71K4YPOz1QI0Ag",
+    "linkCard": "https://m.youtube.com/watch?v=1c2wJJuaWEk",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/13025400660/?externalSource=www"
+    ],
+    "id": "59-TQN-NX"
+  },
+  {
+    "titleCard": "TUTORIAL GRAFICOS REALISTAS ROBLOX STUDIO | #5 Roblox Studio",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "PARTE 2 SUBIDA:",
+    "durationCard": "3:02",
+    "imageCard": "https://i.imgur.com/ariQvH5.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/g7A5jlTPGu8/mqdefault_6s.webp?du=3000&sqp=CJjNy8MG&rs=AOn4CLDhJ8jzep1urUM0vb-pMqaTs3cCPw",
+    "linkCard": "https://m.youtube.com/watch?v=g7A5jlTPGu8",
+    "externalLinksCard": [
+      "https://m.youtube.com/watch?v=xsnPEgCGVBw&t=0s"
+    ],
+    "id": "22-RBW-NX"
+  },
+  {
+    "titleCard": "TUTORIAL PRIMERA PERSONA | Roblox Studio #4",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Hola, en este video te explicaré como poner tu juego en primera persona para Roblox studio, Hola! eh recibido muchos comentarios diciendo que este modelo ya no funciona correctamente, o te faltan algunas partes del cuerpo, o tu cabeza traspasa las paredes, como sea, úsalo si quieres o gustas!",
+    "durationCard": "3:15",
+    "imageCard": "https://i.imgur.com/X1ox30j.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/uD116tu5g64/mqdefault_6s.webp?du=3000&sqp=CJDLy8MG&rs=AOn4CLDuI2DKWPGReGxy4-hUr70ZvJVJFg",
+    "linkCard": "https://m.youtube.com/watch?v=uD116tu5g64",
+    "externalLinksCard": [
+      "https://create.roblox.com/store/asset/12010642524?externalSource=www"
+    ],
+    "id": "34-KJP-NX"
+  },
+
+  {
+    "titleCard": "PACK DE ANIMACIONES | R6 & R15 | Roblox Studios #3",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "✨Animaciones✨",
+    "durationCard": "2:35",
+    "imageCard": "https://i.imgur.com/OaxQN5j.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/yeSwQqVmG18/mqdefault_6s.webp?du=3000&sqp=CKvIy8MG&rs=AOn4CLCivBqc9uexJhFHlH6rT0EG8duQkw",
+    "linkCard": "https://m.youtube.com/watch?v=yeSwQqVmG18",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/11989848355/Animaciones-Tomiasz?externalSource=www"],
+    "id": "63-YDE-NX"
+  },
+  
+  {
+    "titleCard": "EXPLOSION REALISTA | ROBLOX STUDIO #2",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "Modelo",
+    "durationCard": "2:16",
+    "imageCard": "https://i.imgur.com/IXl96sZ.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/EeYEWcSCvCE/mqdefault_6s.webp?du=3000&sqp=COmmy8MG&rs=AOn4CLCpIY1pDCB38wwKILqthEyhKtWzsQ",
+    "linkCard": "https://m.youtube.com/watch?v=EeYEWcSCvCEp",
+    "externalLinksCard": ["https://create.roblox.com/store/asset/11980424484/Kit-Explosion-Realista-Tomiasz?externalSource=www"],
+    "id": "77-BPR-NX"
+  },
+
+  {
+    "titleCard": "Tutorial Como Poner Oscuridad en Roblox Studio",
+    "authorCard": "Tomiasz",
+    "authorImageCard": "https://i.imgur.com/4ZEdsXk.jpeg",
+    "descriptionCard": "¡No hay nada!",
+    "durationCard": "1:35",
+    "imageCard": "https://i.imgur.com/4cmTqwt.jpeg",
+    "gifCard": "https://i.ytimg.com/an_webp/su0T1XlCFUA/mqdefault_6s.webp?du=3000&sqp=CLD7rMMG&rs=AOn4CLC6ZKSNC0HwJ_LwyjZlsr7MERtyDw",
+    "linkCard": "https://m.youtube.com/watch?v=su0T1XlCFUA",
+    "externalLinksCard": [""],
+    "id": "98-VQB-NX"
+  }
+]
