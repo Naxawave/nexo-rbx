@@ -54,4 +54,18 @@
         "resourcePage": "https://create.roblox.com/store/asset/10434883527/NoCollide",
         "resourceImages": "https://naxawave.github.io/Next_Storage/imageResources/thumbnail_script.png"
       }
+
+    {
+        "id": 000005,
+        "resourceName": "Sad emoji meme",
+        "resourceDescription": "Una cara triste con tematica de meme.",
+        "resourceAuthor": "@MrJump323",
+        "enabled": true,
+        "resourceType": "image",
+        "resourceDate": "13/07/2025",
+        "tags": ["Face", "Image"],
+        "resourceLink": "1o3CHHrmaaTiKgmir4FLxFy2FGQwlNvU",
+        "resourcePage": "https://create.roblox.com/store/asset/85516397957702",
+        "resourceImages": "https://naxawave.github.io/Next_Storage/imageResources/thumbnail_script.png"
+      }
 ]
