@@ -1,0 +1,57 @@
+[
+    {
+        "id": 000001,
+        "resourceName": "DayNightSystem",
+        "resourceDescription": "Un pequeño sistema de dia y noche mejorado, con un sistema de dias de la semana totalemnte perzonalizable.",
+        "resourceAuthor": "@MrJump323",
+        "enabled": true,
+        "resourceType": "code",
+        "resourceDate": "21/06/2025",
+        "tags": ["Script", "Dia", "Nohce", "Automatico"],
+        "resourceLink": "1lxWNHMJgzcXfl-BH-1H5tel3LiznXNX3",
+        "resourcePage": "https://create.roblox.com/store/asset/110596518251377/DayNightSystem",
+        "resourceImages": "https://naxawave.github.io/Next_Storage/imageResources/thumbnail_script.png"
+      },
+
+      {
+        "id": 000002,
+        "resourceName": "StarterCharacter",
+        "resourceDescription": "Un personaje de incio recoloreado como noob.",
+        "resourceAuthor": "@MrJump323",
+        "enabled": true,
+        "resourceType": "model",
+        "resourceDate": "21/06/2025",
+        "tags": ["Modelo", "Startercharacter", "Noob"],
+        "resourceLink": "1mEU205dUKWMTEmljqP40NeEvIGoG1vc6",
+        "resourcePage": "https://create.roblox.com/store/asset/11619524575/StarterCharacter",
+        "resourceImages": "https://naxawave.github.io/Next_Storage/imageResources/startercharacter_custom_thumbnail.png"
+      },
+
+      {
+        "id": 000003,
+        "resourceName": "Dreams",
+        "resourceDescription": "Este es un sonido oficial de la experiencia Untitled Battle Game, gratis para su descarga.",
+        "resourceAuthor": "@MrJump323",
+        "enabled": true,
+        "resourceType": "sound",
+        "resourceDate": "21/06/2025",
+        "tags": ["Sound", "OGG"],
+        "resourceLink": "1KVrud92HqgHmvbfBVDcMwtvqRbNhoP2T",
+        "resourcePage": "https://create.roblox.com/store/asset/86055835895975/Dreams-Pixel",
+        "resourceImages": "https://naxawave.github.io/Next_Storage/imageResources/thumbnail_sound.png"
+      },
+
+    {
+        "id": 000004,
+        "resourceName": "No collide",
+        "resourceDescription": "Un script que permite que entre jugadores se atraviezen estre si, desactivando las colisiones.",
+        "resourceAuthor": "@MrJump323",
+        "enabled": true,
+        "resourceType": "model",
+        "resourceDate": "25/06/2025",
+        "tags": ["Game", "Script"],
+        "resourceLink": "1iZKGHFrzkxOM7CXiiqRpzhVY78DVBzUi",
+        "resourcePage": "https://create.roblox.com/store/asset/10434883527/NoCollide",
+        "resourceImages": "https://naxawave.github.io/Next_Storage/imageResources/thumbnail_script.png"
+      }
+]
