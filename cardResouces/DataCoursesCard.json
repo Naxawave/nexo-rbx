@@ -1,0 +1,17 @@
+[
+    {
+        "courseId": "00001",
+        "courseTitle": "Test",
+        "courseAuthor": "Naxawave",
+        "courseDate": "12/07/2025",
+        "courseDescription": "Prueba de visibilidad de los cursos",
+        "courseDuration": "10",
+        "courseDifficulty": "Easy",
+        "courseImage": "https://tr.rbxcdn.com/180DAY-132543fc4bb471d5e96594392a88e4e8/384/216/Image/Webp/noFilter",
+        "courseVideo": "https://www.youtube.com/watch?v=NkBR0JhspHI",
+        "externalCourseResources": [
+          "https://www.youtube.com/watch?v=NkBR0JhspHI",
+          "https://www.youtube.com/watch?v=NkBR0JhspHI"
+        ]
+      }
+]
